@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=polat-yuce&label=Profile%20views&color=0e75b6&style=flat" alt="polat-yuce" /> </p>
 
-- 📫 Bana nasıl ulaşılabilir **polattyuce@gmail.coö**
 
-<h3 align="left">Benimle bağlantı kurun:</h3>
+
+
 <p align="left">
 </p>
 
